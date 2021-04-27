@@ -2,4 +2,6 @@
 class Breakfast(){
 
 }
-class Lunch()
+class Lunch{
+  
+}
