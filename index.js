@@ -34,4 +34,4 @@ class Dinner{
     this._dessert = _dessert;
   }
 }
-const dinner = new Dinner("salad","","","");
+const dinner = new Dinner("salad","soup","","");
