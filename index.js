@@ -3,7 +3,8 @@ class Breakfast{
 constructor(food,drink){
 
 }
-const breakfast = new Breakfast("cheese","tea")
+const breakfast = new Breakfast("cheese","tea");
+
 }
 class Lunch{
   constructor(salad,soup,drink){
