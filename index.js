@@ -10,7 +10,7 @@ getfood(){
 }
 }
 const breakfast = new Breakfast("cheese","tea");
-console.log(breakfast.getfood);
+console.log(breakfast.getfood());
 
 class Lunch{
   constructor(salad,soup,drink){
