@@ -25,7 +25,7 @@ class Lunch{
   }
 }
 const lunch =  new Lunch("tapula","chicken soup","cola");
-
+console.log();
 class Dinner{
   constructor(salad, soup, entree,_dessert){
 
