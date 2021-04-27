@@ -2,6 +2,7 @@
 class Breakfast{
 constructor(food,drink){
 this.food= food;
+
 }
 const breakfast = new Breakfast("cheese","tea");
 
