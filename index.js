@@ -33,7 +33,9 @@ class Dinner{
     this.entree=entree;
     this._dessert = _dessert;
   }
-  getfood()
+  getfood(){
+    return 
+  }
 }
 const dinner = new Dinner("salad","soup","entree","dessert");
 console.log(dinner.getfood());
