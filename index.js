@@ -24,7 +24,7 @@ class Lunch{
     return this.salad+ " " +this.soup+ " " +this.drink;
   }
 }
-c
+const lucn
 class Dinner{
   constructor(salad, soup, entree,_dessert){
 
