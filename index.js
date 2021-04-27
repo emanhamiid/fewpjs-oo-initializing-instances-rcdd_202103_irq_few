@@ -6,7 +6,7 @@ this.drink=drink;
 
 }
 getfood(){
-  return
+  return this.
 }
 }
 const breakfast = new Breakfast("cheese","tea");
