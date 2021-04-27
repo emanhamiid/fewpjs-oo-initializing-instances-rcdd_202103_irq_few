@@ -21,7 +21,7 @@ class Lunch{
 
   }
   getfood(){
-    return this.+ " " +this.drink;
+    return this.salad+ " " +this.drink;
   }
 }
 class Dinner{
