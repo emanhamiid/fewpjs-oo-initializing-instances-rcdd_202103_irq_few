@@ -28,6 +28,6 @@ const lunch =  new Lunch("tapula","chicken soup","cola");
 console.log(lunch.getfood());
 class Dinner{
   constructor(salad, soup, entree,_dessert){
-   
+    
   }
 }
