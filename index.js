@@ -20,6 +20,9 @@ class Lunch{
 
 
   }
+  getfood(){
+    return this.food + " " +this.drink;
+  }
 }
 class Dinner{
   constructor(salad, soup, entree,_dessert){
