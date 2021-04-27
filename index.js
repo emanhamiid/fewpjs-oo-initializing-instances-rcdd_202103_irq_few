@@ -5,6 +5,7 @@ this.food= food;
 this.drink=drink;
 
 }
+
 }
 const breakfast = new Breakfast("cheese","tea");
 
