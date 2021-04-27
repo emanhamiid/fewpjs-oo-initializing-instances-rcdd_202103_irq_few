@@ -10,7 +10,7 @@ class Lunch{
   }
 }
 class Dinner{
-  constructor(salad, soup, entree, and dessert){
+  constructor(salad, soup, entree,dessert){
 
   }
 }
