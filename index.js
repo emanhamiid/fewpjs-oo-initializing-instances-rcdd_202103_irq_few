@@ -35,3 +35,4 @@ class Dinner{
   }
 }
 const dinner = new Dinner("salad","soup","entree","dessert");
+console.log();
