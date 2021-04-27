@@ -29,6 +29,7 @@ console.log(lunch.getfood());
 class Dinner{
   constructor(salad, soup, entree,_dessert){
     this.salad = salad;
-    this.
+    this.soup = soup;
+    t
   }
 }
