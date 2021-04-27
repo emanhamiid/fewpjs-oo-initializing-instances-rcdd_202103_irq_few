@@ -34,7 +34,7 @@ class Dinner{
     this._dessert = _dessert;
   }
   getfood(){
-    return this.salad + " " + this.soup + " " + this.entree +" " + this.
+    return this.salad + " " + this.soup + " " + this.entree +" " + this._dessert;
   }
 }
 const dinner = new Dinner("salad","soup","entree","dessert");
