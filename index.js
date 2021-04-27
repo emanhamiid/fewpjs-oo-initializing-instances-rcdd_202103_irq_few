@@ -14,6 +14,7 @@ console.log(breakfast.getfood());
 
 class Lunch{
   constructor(salad,soup,drink){
+    
 
   }
 }
