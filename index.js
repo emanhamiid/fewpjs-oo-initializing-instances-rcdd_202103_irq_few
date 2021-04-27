@@ -33,6 +33,7 @@ class Dinner{
     this.entree=entree;
     this._dessert = _dessert;
   }
+  
 }
 const dinner = new Dinner("salad","soup","entree","dessert");
 console.log(dinner.getfood());
